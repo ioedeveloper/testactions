@@ -1,4 +1,3 @@
-//sample/contracts/custom/mainnet_ens.sol
 import "https://github.com/ensdomains/ens-contracts/blob/master/contracts/utils/NameEncoder.sol";
 
 abstract contract ENS {
