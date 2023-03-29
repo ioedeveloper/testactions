@@ -1,4 +1,3 @@
-//.github/workflows/sample.yml
 name: sol-test-js
 on: [push]
 
