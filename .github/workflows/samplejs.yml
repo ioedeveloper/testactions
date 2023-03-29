@@ -9,7 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Run Custom Fork Test
-        uses: EthereumRemix/ts-sol-test@v1.3.46-dev
+        uses: EthereumRemix/ts-sol-test@v1.3.52-dev
         with:
           test-path: 'sample/tests/custom/hardFork.test.ts'
           contract-path: 'sample/contracts/custom/mainnet_ens.sol'
