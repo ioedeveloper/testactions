@@ -1,6 +1,6 @@
 //sample/test/custom/hardFork.test.ts
-import { ethers } from "ethers"
-import { expect } from "chai"
+import { ethers } from "ethers";
+import { expect } from "chai";
 
 describe("ENS Resolver address", function () {
   it("Should resolve mainnet ens ", async function () {
